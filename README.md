@@ -315,15 +315,3 @@ MODEL=paraphrase-mpnet-base-v2
 **Ripcodes / Pranav Patil**  
 🚀 Passionate DevOps & Cloud Developer  
 📦 AWS | FastAPI | React | CI/CD
-
----
-
-If you want, I can also generate:
-
-✅ Project logo  
-✅ Architecture diagram  
-✅ Badges (build, AWS, version, license)  
-✅ Add a live demo section  
-✅ Auto-generated API docs section  
-
-Just tell me — I’ll add it!
